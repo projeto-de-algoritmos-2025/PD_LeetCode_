@@ -1,45 +1,25 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# LeetCode
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 5<br>
+**Conteúdo da Disciplina**: Programação Dinâmica<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 22/2015186  |  Manoela Silvestre Garcia Chaves |
+| 22/2029243  |  Victor Hugo dos Santos Bernardes |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Para essa entrega, a dupla escolheu fazer exercícios da plataforma LeetCode: três de nível difícil e um de nível médio.  
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+### [123. Best Time to Buy and Sell Stock III (Difícil)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/)
+
+### [188. Best Time to Buy and Sell Stock IV (Difícil)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/)
+
+### [322. Coin Change (Médio)](https://leetcode.com/problems/coin-change/description/)
+
+### [1235. Maximum Profit in Job Scheduling (Difícil)](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/)
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
-
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
+**Linguagem**: Python<br>
