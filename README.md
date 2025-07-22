@@ -39,11 +39,11 @@ O exercício pede que, dado um conjunto de trabalhos (jobs), cada um com um hor�
 ## Apresentação do trabalho
  
 <p align="center">
-  <a href="https://youtu.be/M3_86JDU4LM" target="_blank">
-    <img src="https://img.youtube.com/vi/M3_86JDU4LM/0.jpg" alt="Assista à demonstração do projeto" width="700" />
+  <a href="https://youtu.be/D3BTodACm0E" target="_blank">
+    <img src="https://img.youtube.com/vi/D3BTodACm0E/0.jpg" alt="Assista à demonstração do projeto" width="700" />
   </a>
 </p>
 
 <p align="center">
-  Disponível em: <a href="https://youtu.be/M3_86JDU4LM" target="_blank">https://youtu.be/M3_86JDU4LM</a>
+  Disponível em: <a href="https://youtu.be/D3BTodACm0E" target="_blank">https://youtu.be/D3BTodACm0E</a>
 </p>
